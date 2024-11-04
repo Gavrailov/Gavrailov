@@ -1,5 +1,11 @@
 ## Hi there 👋
+I am Anton Gavrailov, an aspiring developer focusing on AI (Artificial Intelligence) and ML (Machine Learning). I graduated as an Industrial Engineer from the Technical University in Sofia and am currently nearing the completion of my Master’s degree in AI at Sofia University - FMI.
 
+🌱 I’m currently learning to use Java at a higher level and exploring front-end technologies like HTML, CSS, and JavaScript. I am also dabbling with databases such as MongoDB and Spring Boot.
+
+⚡ At one point in my life, I played professional video games, which fueled my competitiveness and drives my ambition in programming to continually improve.
+
+📫 You can reach me through my email at: agavrailov88@gmail.com
 <!--
 **Gavrailov/Gavrailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
