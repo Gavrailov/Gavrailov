@@ -3,7 +3,7 @@ I am Anton Gavrailov, an aspiring developer focusing on AI (Artificial Intellige
 
 🌱 I’m currently learning to use Java and exploring front-end technologies like HTML, CSS, and JavaScript. I am also dabbling with Spring Boot, Kubernetes,Docker and databases such as MongoDB and SQL.
 
-⚡ At one point in my life, I played video games professionally, which fueled my competitiveness and drives my ambition in programming to continually improve.
+⚡ At one point in my life, I played video games professionally, which fueled my competitiveness and drives my ambition to continually improve.
 
 📫 You can reach me through my email at: agavrailov88@gmail.com
 <!--
