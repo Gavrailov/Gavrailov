@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Anton Gavrailov, an aspiring developer focusing on AI (Artificial Intelligence) and ML (Machine Learning). I graduated as an Industrial Engineer from the Technical University in Sofia and am currently nearing the completion of my Master’s degree in AI at Sofia University - FMI.
 
-🌱 I’m currently learning to use Java and exploring front-end technologies like HTML, CSS, and JavaScript. I am also dabbling with Spring Boot, Kubernetes,Docker and databases such as MongoDB and SQL.
+🌱 I’m currently learning to use Java/Golang and exploring front-end technologies like HTML, CSS, and JavaScript. I am also dabbling with Spring Boot, Kubernetes, Docker and databases such as MongoDB and SQL.
 
 ⚡ At one point in my life, I played video games professionally, which is one of the reasons I have a competitive character which drives my ambition to continually improve.
 
